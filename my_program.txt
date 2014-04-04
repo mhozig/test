@@ -3,6 +3,7 @@
 --Jira IRMT-XXX
 --
 -- Add comments for test branch
+-- Comment on branch only
 BEGIN
    NULL;
 END;
