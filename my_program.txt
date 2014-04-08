@@ -1,9 +1,7 @@
 --03/28/2014
 --This is my test program
---Jira IRMT-XXX
+--Jira XXX
 --
--- Add comments for test branch
--- Comment for all branches
 BEGIN
    NULL;
 END;
